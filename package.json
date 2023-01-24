@@ -1,7 +1,25 @@
-{
+{  
+  "name": "mern-stack-ecommerce",
+  "description": "\"This is an ecommerce app using MERN Stack\"",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhanarajccs/mern-stack-ecommerce.git"
+  },
+  "author": "dhanarajccs",
+  "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongoose": "^6.8.4"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/dhanarajccs/mern-stack-ecommerce/issues"
+  },
+  "homepage": "https://github.com/dhanarajccs/mern-stack-ecommerce#readme"
 }
